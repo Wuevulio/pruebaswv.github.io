@@ -1,0 +1,31 @@
+header{
+	font-size: 50px;
+	color: rgb(180,180,30);
+	text-align: center;
+
+}
+body{
+	background-color: rgb(50,50,140);
+	color: white;
+}
+#caja{
+	width: 50%;
+	margin: 50px;
+}
+#caja1{
+	border-top: 2px solid white;
+	border-bottom: 2px solid white;
+}
+#caja2{
+	border: 2px solid white;
+	padding: 15px;
+}
+div{
+	margin: 10px;
+}
+h3{
+	color: rgb(50,150,150);
+}
+#titulo{
+	color: rgb(180,180,30);
+}
